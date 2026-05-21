@@ -2,7 +2,7 @@
 
 | 实验名称 | 仓库链接 |
 |---------|---------|
-| sy3-notebook | [sy3-notebook](https://github.com/liiiiiixyxzy/sy3-notebook) |
+| sy3-notebook | [sy3-notebook](https://github.com/liiiiixyxyxy/sy3-notebook) |
 | CameraX 相机应用 | [sy2-3-CameraXApp](https://github.com/liiiiixyxyxy/sy2-CameraXApp) |
 | AI 应用 UI 实现 | [sy2-2-liter-ai-demo](https://github.com/liiiiixyxyxy/sy2-liter-ai-demo) |
 | Compose 布局实现 | [sy2-2-BasicsCodelab](https://github.com/liiiiixyxyxy/sy2-BasicsCodelab) |
